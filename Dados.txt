@@ -1,0 +1,5 @@
+com raizes qudradas no meio 
+ 5 para valores menores que 10;
+ 27 para valores menores que 100;
+ 177 para valores menores que 1k;
+ 9655 para valores menores que 10k

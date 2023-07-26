@@ -1,0 +1,3 @@
+Um número e considerado primo quando for um numero inteiro positivo com apenas dois divisores distintos;
+Mas tambem existe outro tipos de número com propriedades semelhantes, podemos forçar e dizer que, um número negativo e primo quando tem apenas dois divisores distintos;  
+Agora quando digo divisores me refide que a divisão sera exata e resultara em um número inteiro positivo; 
